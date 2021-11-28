@@ -41,7 +41,6 @@
                         <color key="badgeColor" red="0.1766342521" green="0.34168344740000001" blue="0.59218525889999996" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                     </tabBarItem>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" id="hfc-SR-yZY">
-                        <rect key="frame" x="0.0" y="44" width="414" height="44"/>
                         <autoresizingMask key="autoresizingMask"/>
                     </navigationBar>
                     <connections>
@@ -60,7 +59,6 @@
                         <color key="badgeColor" red="0.1766342521" green="0.34168344740000001" blue="0.59218525889999996" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                     </tabBarItem>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" id="YYf-e5-sD0">
-                        <rect key="frame" x="0.0" y="44" width="414" height="44"/>
                         <autoresizingMask key="autoresizingMask"/>
                     </navigationBar>
                     <connections>
@@ -69,7 +67,7 @@
                 </navigationController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="Cqt-Ql-7VQ" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="341" y="-376"/>
+            <point key="canvasLocation" x="-401" y="-376"/>
         </scene>
         <!--notifications-->
         <scene sceneID="ZWu-GG-Fyy">
@@ -79,7 +77,6 @@
                         <color key="badgeColor" red="0.1766342521" green="0.34168344740000001" blue="0.59218525889999996" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                     </tabBarItem>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" id="1lX-y2-kId">
-                        <rect key="frame" x="0.0" y="44" width="414" height="44"/>
                         <autoresizingMask key="autoresizingMask"/>
                     </navigationBar>
                     <connections>
@@ -88,7 +85,7 @@
                 </navigationController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="wcB-I4-ZkO" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-388" y="-376"/>
+            <point key="canvasLocation" x="341" y="-376"/>
         </scene>
         <!--More-->
         <scene sceneID="dVc-iV-htJ">
@@ -98,7 +95,6 @@
                         <color key="badgeColor" red="0.1766342521" green="0.34168344740000001" blue="0.59218525889999996" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                     </tabBarItem>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" id="J1I-gJ-x3K">
-                        <rect key="frame" x="0.0" y="44" width="414" height="44"/>
                         <autoresizingMask key="autoresizingMask"/>
                     </navigationBar>
                     <connections>

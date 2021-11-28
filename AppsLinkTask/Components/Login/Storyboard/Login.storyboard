@@ -200,7 +200,7 @@
                             <constraint firstItem="wVa-86-f2a" firstAttribute="leading" secondItem="vDu-zF-Fre" secondAttribute="leading" id="9EC-Mk-rgx"/>
                             <constraint firstItem="ma0-mj-hg8" firstAttribute="leading" secondItem="vDu-zF-Fre" secondAttribute="leading" constant="40" id="JFc-7A-ZAv"/>
                             <constraint firstItem="vDu-zF-Fre" firstAttribute="trailing" secondItem="wVa-86-f2a" secondAttribute="trailing" id="JPC-57-Jos"/>
-                            <constraint firstItem="JRq-kd-ucW" firstAttribute="top" secondItem="vDu-zF-Fre" secondAttribute="top" constant="85" id="UFC-NT-Jvf"/>
+                            <constraint firstItem="JRq-kd-ucW" firstAttribute="top" secondItem="vDu-zF-Fre" secondAttribute="top" constant="50" id="UFC-NT-Jvf"/>
                             <constraint firstItem="vDu-zF-Fre" firstAttribute="trailing" secondItem="zmA-KE-6NE" secondAttribute="trailing" constant="40" id="Xsr-sV-ukS"/>
                             <constraint firstItem="wVa-86-f2a" firstAttribute="top" secondItem="5EZ-qb-Rvc" secondAttribute="top" id="cs2-zy-PCV"/>
                             <constraint firstItem="JRq-kd-ucW" firstAttribute="centerX" secondItem="5EZ-qb-Rvc" secondAttribute="centerX" id="dbB-wf-G1n"/>
@@ -219,7 +219,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="Ief-a0-LHa" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-26.086956521739133" y="65.625"/>
+            <point key="canvasLocation" x="-26" y="29"/>
         </scene>
     </scenes>
     <designables>

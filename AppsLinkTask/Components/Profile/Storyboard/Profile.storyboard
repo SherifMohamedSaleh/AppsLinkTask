@@ -57,7 +57,7 @@
                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="6Of-IB-uYA">
                                 <rect key="frame" x="0.0" y="244" width="414" height="652"/>
                                 <subviews>
-                                    <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" distribution="fillEqually" spacing="20" translatesAutoresizingMaskIntoConstraints="NO" id="ZaT-se-djf">
+                                    <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" distribution="fillEqually" spacing="10" translatesAutoresizingMaskIntoConstraints="NO" id="ZaT-se-djf">
                                         <rect key="frame" x="0.0" y="10" width="414" height="380"/>
                                         <subviews>
                                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="DGh-Re-S6x">
@@ -107,7 +107,7 @@
                                                     <constraint firstAttribute="trailing" secondItem="Ojw-BI-FMP" secondAttribute="trailing" constant="20" id="hbG-Bl-IlA"/>
                                                     <constraint firstAttribute="trailing" secondItem="Nk4-9Y-LA6" secondAttribute="trailing" id="jn6-8Q-C54"/>
                                                     <constraint firstAttribute="bottom" secondItem="Nk4-9Y-LA6" secondAttribute="bottom" id="lS3-L2-duR"/>
-                                                    <constraint firstAttribute="height" constant="80" id="mhf-gD-blH"/>
+                                                    <constraint firstAttribute="height" constant="50" id="mhf-gD-blH"/>
                                                     <constraint firstItem="Nk4-9Y-LA6" firstAttribute="top" secondItem="DGh-Re-S6x" secondAttribute="top" id="rxk-jZ-clS"/>
                                                     <constraint firstItem="Nk4-9Y-LA6" firstAttribute="leading" secondItem="DGh-Re-S6x" secondAttribute="leading" constant="10" id="we4-yl-cxC"/>
                                                 </constraints>
@@ -159,7 +159,7 @@
                                                     <constraint firstAttribute="bottom" secondItem="pF2-EZ-zMp" secondAttribute="bottom" id="Mrn-po-TLl"/>
                                                     <constraint firstItem="7Ph-H9-WxU" firstAttribute="leading" secondItem="ehB-sP-vGo" secondAttribute="leading" constant="20" symbolic="YES" id="PUf-7Y-i3U"/>
                                                     <constraint firstAttribute="trailing" secondItem="7Ph-H9-WxU" secondAttribute="trailing" constant="20" symbolic="YES" id="eqK-8i-uFW"/>
-                                                    <constraint firstAttribute="height" constant="80" id="lSA-dO-uhf"/>
+                                                    <constraint firstAttribute="height" constant="50" id="lSA-dO-uhf"/>
                                                     <constraint firstItem="pF2-EZ-zMp" firstAttribute="leading" secondItem="ehB-sP-vGo" secondAttribute="leading" constant="10" id="oSF-bB-xal"/>
                                                 </constraints>
                                             </view>
@@ -210,7 +210,7 @@
                                                     <constraint firstAttribute="bottom" secondItem="fGH-c1-yqG" secondAttribute="bottom" id="EZz-Ih-Xx5"/>
                                                     <constraint firstAttribute="trailing" secondItem="uqn-Tu-oX0" secondAttribute="trailing" constant="20" symbolic="YES" id="FKS-U8-ora"/>
                                                     <constraint firstItem="fGH-c1-yqG" firstAttribute="top" secondItem="gii-K1-nXf" secondAttribute="top" id="Hsl-fi-9WM"/>
-                                                    <constraint firstAttribute="height" constant="80" id="IOq-Wa-anA"/>
+                                                    <constraint firstAttribute="height" constant="50" id="IOq-Wa-anA"/>
                                                     <constraint firstAttribute="bottom" secondItem="uqn-Tu-oX0" secondAttribute="bottom" id="w4q-6W-K0T"/>
                                                 </constraints>
                                             </view>
@@ -262,7 +262,7 @@
                                                     <constraint firstAttribute="bottom" secondItem="iIW-wz-NwL" secondAttribute="bottom" id="TXt-tW-LNA"/>
                                                     <constraint firstItem="iIW-wz-NwL" firstAttribute="leading" secondItem="S2O-0E-kME" secondAttribute="leading" constant="10" id="ewg-Lu-kjC"/>
                                                     <constraint firstItem="iIW-wz-NwL" firstAttribute="top" secondItem="S2O-0E-kME" secondAttribute="top" id="xrB-cy-vop"/>
-                                                    <constraint firstAttribute="height" constant="80" id="yPC-Wp-HH2"/>
+                                                    <constraint firstAttribute="height" constant="50" id="yPC-Wp-HH2"/>
                                                 </constraints>
                                             </view>
                                         </subviews>
